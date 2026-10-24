@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Playright Automation"
+		},
+		{
+			"path": "../ProjectWithFramework"
+		}
+	],
+	"settings": {
+		"editor.inlineSuggest.edits.showCollapsed": true,
+		"editor.inlineSuggest.suppressSuggestions": false,
+		"editor.suggest.localityBonus": false,
+		"editor.suggest.preview": true,
+		"editor.inlineSuggest.experimental.showOnSuggestConflict": "always",
+		"editor.inlineSuggest.edits.longDistanceHintContextLineCount": 10,
+		"editor.suggest.snippetsPreventQuickSuggestions": true,
+		"powershell.cwd": "Playwright typescript"
+	}
+}
