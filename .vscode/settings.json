@@ -1,0 +1,39 @@
+{
+    "terminal.explorerKind": "both",
+    "terminal.integrated.allowInUntrustedWorkspace": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "playwright.pickLocatorCopyToClipboard": false,
+    "workbench.colorTheme": "Red",
+    "playwright.reuseBrowser": false,
+    "chat.permissions.default": "autopilot",
+    "editor.inlineSuggest.edits.allowCodeShifting": "horizontal",
+    "editor.inlineSuggest.edits.renderSideBySide": "auto",
+    "editor.inlineSuggest.edits.showCollapsed": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.suggestOnTriggerCharacters": true,
+    "workbench.notifications.position": "bottom-left",
+    "[typescript]": {},
+    "debug.breakpointsView.presentation": "tree",
+    "files.autoSave": "afterDelay",
+    "workbench.startupEditor": "none",
+    "git.autofetch": true,
+    "editor.quickSuggestionsDelay": 10,
+    "editor.quickSuggestions": {
+        
+
+        "other": "on", // "offWhenInlineCompletions",
+        "comments": "off",
+        "strings": "on", //off"
+    },
+    "editor.inlineSuggest.suppressSuggestions": false,
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": true,
+    "editor.wordBasedSuggestions": "offWithInlineSuggestions",
+    "search.searchView.keywordSuggestions": true,
+    "debug.console.acceptSuggestionOnEnter": "on",
+    "terminal.integrated.suggest.quickSuggestions": {
+        "commands": "on",
+        "arguments": "on",
+        "unknown": "on"
+    }
+}

@@ -32,7 +32,7 @@ test('confirm dialogboxes', async ({ page }) => {
 })
 
 
-test.only('prompt aleret/ dialogboxes', async ({ page }) => {
+test('prompt aleret/ dialogboxes', async ({ page }) => {
     //Simpel dialog box
     await page.goto('https://testautomationpractice.blogspot.com/');
     //dialog handlar - prompt    
